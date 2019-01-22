@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="bridgeConnect">BRIDGE CONNECT</string>
+    <string name="bridgeDisconnect">BRIDGE DISCONNECT</string>
+</resources>
